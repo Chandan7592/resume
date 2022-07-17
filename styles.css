@@ -1,0 +1,71 @@
+#base {padding: 150px; padding-top: 10px; background-color: rgb(139, 136, 136);}
+
+.slider {
+    width: 300px; 
+    height: 1000px; 
+    float: left; 
+    background-image: 
+    linear-gradient
+    (rgb(166, 203, 248),
+    rgb(122, 124, 253));}
+
+.foot1  a {margin-left: 50px; font-weight: bold;}
+.foot2 {float: right; margin-right: 150px; text-align: center; font-size: 18px; font-weight: bolder;}
+
+
+.main   
+{
+    width: 1000px; 
+    height: auto; 
+    background-image: linear-gradient( rgb(216, 231, 245),rgb(233, 233, 233)); 
+    margin: 0px;
+    padding-bottom: 100px;
+    
+}
+
+
+
+
+.header   
+{
+    width: 1000px; 
+    height: 250px; 
+    background-image: linear-gradient( rgb(216, 231, 245),rgb(233, 233, 233)); 
+    /*background-color: rgb(247, 242, 236); */
+    padding-top: 10px; padding-bottom: 0px;
+}
+
+.header h1 
+{
+    color: rgb(216, 177, 48); 
+    text-align: center; 
+    font-size: 35px;
+}
+
+.header h2 
+{
+    color: rgb(50, 20, 250); 
+    text-align: center; 
+    font-size: 28px;
+    margin-bottom: 70px;
+}
+.header pre
+{
+    color: rgb(84, 16, 245); 
+    text-align: right; 
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.main h3 {font-size: 20px; color: blue; margin-left: 50px; font-weight: bold; margin-top: 0px; margin-bottom: 5px; padding-bottom: 0px;}
+.main pre {font-size: 18px; margin-left: 80px; font-weight: bold; padding-bottom: 80px;}
+.main p {margin: 50px; margin-top: 10px;}
+.main table {margin: 50px; margin-top: 10px; width: 850px; height: 150px;  }
+.main table tr { margin: 50px; text-align: center;}
+.main table tr td { background-color: rgba(168, 168, 168, 0.507); font-size: 16px;}
+.main table tr td ul { text-align:left;}
+.main ul {margin-left : 50px; text-align: left;}
+/*.main p {font-weight: bold; font-size: 18px;}*/
